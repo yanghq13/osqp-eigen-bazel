@@ -1,0 +1,15 @@
+cc_library(
+    name = "osqp",
+    srcs = [
+        "libosqp.so",
+        "libosqp.a",
+        "libqdldl.a",
+        "libqdldl.so",
+    ],
+    hdrs = glob([
+        "include/*.h",
+    ]),
+    linkopts = ["-ldl"],
+    include_prefix = "ThirdParty/osqp/",
+    visibility = ["//visibility:public"],
+)
