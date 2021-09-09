@@ -15,3 +15,4 @@ CMakeLists.txt.user
 copts/__pycache__/
 # Ignore latex markdown
 README_latex.md
+README.assets
