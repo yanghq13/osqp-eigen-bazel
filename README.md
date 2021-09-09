@@ -1,4 +1,4 @@
-# **osqp-cpp-bazel**
+# **osqp-eigen-bazel**
 
 ![LICENSE](https://img.shields.io/badge/license-Apache%202-blue)
 ![Build Status](https://travis-ci.com/JoeyBling/yilia-plus-demo.svg?branch=master)
