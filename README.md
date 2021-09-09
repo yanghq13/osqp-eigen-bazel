@@ -94,7 +94,7 @@ int main()
 
 ## Tutorial
 
-1. Set `bazel` sync.(Need to install `bazel` before)
+1. Set `bazel` sync.(Need to [install bazel](https://docs.bazel.build/versions/main/install.html) before)
 
 ```bash
 bazel sync
